@@ -1,0 +1,121 @@
+########################################################################################
+## Week 1
+-
+  date: 2017-01-25
+  info: 01 - Introduction
+  week: 1
+-
+  date: 2017-01-27
+  info: 02 - The Unix file system
+  demo:
+    - Creating a git repository
+########################################################################################
+## Week 2
+-
+  date: 2017-01-30
+  info: 03 - Manipulating Files and Using Git
+  week: 2
+  demo:
+    - File permissions gone wild.
+-
+  date: 2017-02-01
+  info: 04 - More Files, Chaining Commands, and your First(?) Git Repository
+  demo:
+    - Forking a repository.
+  misc:
+    - Last day to add.
+-
+  date: 2017-02-03
+  info: 05 - Expansions and Regular Expressions
+  demo:
+    - Basic text processing.
+  misc:
+    - Contains two of the most useful commands you will ever use.
+########################################################################################
+## Week 3
+-
+  date: 2017-02-06
+  info: 06 - Intro to &#123;Scripting, Customizing, Text Editors&#125;
+  week: 3
+  demo:
+    - Customize your terminal and <kbd>vim</kbd>.
+-
+  date: 2017-02-08
+  info: 07 - Processes and Jobs
+  misc:
+    - Last day to drop.
+  demo:
+    - Mastering <kbd>vlc</kbd> in the terminal.
+-
+  date: 2017-02-10
+  info: 08 - Superlative Streams
+  demo:
+    - <kbd>sed</kbd> and html generation.
+########################################################################################
+## Week 4
+-
+  date: 2017-02-13
+  break: February Break
+  week: 4
+-
+  date: 2017-02-15
+  info: 09 - Bash Scripting II
+  demo:
+    - Looping through files.
+-
+  date: 2017-02-17
+  info: 10 - Bash Scripting III, Git Merging and Diffs
+  demo:
+    - A forced merge conflict.
+########################################################################################
+## Week 5
+-
+  date: 2017-02-20
+  info: 11 - Advanced Bash, Git Branching
+  week: 5
+-
+  date: 2017-02-22
+  info: 12 - <kbd>awk</kbd>/<kbd>gawk</kbd>, More Git Branching
+-
+  date: 2017-02-24
+  info: 13 - <kbd>Python</kbd>, Git Branching Wrap-Up
+  demo:
+    - Creating your own branch.
+########################################################################################
+## Week 6
+-
+  date: 2017-02-27
+  info: 14 - Package Management
+  week: 6
+  demo:
+    - Debugging <kbd>python3</kbd>.
+-
+  date: 2017-03-01
+  info: 15 - Build Systems, Git Merging and Working Across Branches
+-
+  date: 2017-03-03
+  info: 16 - Working Remotely &amp; Closing Git Branches
+########################################################################################
+## Week 7
+-
+  date: 2017-03-06
+  info: 17 - Advanced Git
+  week: 7
+-
+  date: 2017-03-08
+  info: '18 - Conclusions'
+-
+  date: 2017-03-10
+  info: 'Additional Material: TBD'
+########################################################################################
+## Week 8
+-
+  date: 2017-03-13
+  info: 'No class'
+  week: 8
+-
+  date: 2017-03-15
+  info: 'No class'
+-
+  date: 2017-03-17
+  info: 'No class'

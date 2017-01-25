@@ -1,0 +1,17 @@
+- path: getting_started.md
+  name: Getting Started
+- path: schedule.md
+  name: Schedule
+- path: syllabus.md
+  name: Syllabus
+- path: https://github.coecis.cornell.edu/cs2043-sp17
+  name: Assignments
+  external: true
+- path: readings.md
+  name: Readings
+- path: https://github.com/cs2043-sp17
+  name: GitHub
+  external: true
+- path: https://www.piazza.com/cornell/spring2017/cs2043
+  name: Piazza
+  external: true
